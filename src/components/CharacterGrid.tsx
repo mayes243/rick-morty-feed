@@ -27,7 +27,7 @@ export default function CharacterGrid() {
                   placeholder="blur"
                   blurDataURL={character.image}
                 />
-                <p className="text-center mt-2 font-semibold">{character.name}</p>
+                <p className="text-center mt-2 font-semibold text-black">{character.name}</p>
               </div>
             ))
           : !isLoading && (
