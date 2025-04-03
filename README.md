@@ -86,7 +86,7 @@ npm run test:watch
 │   ├── utils            # Utility functions
 │   ├── pages            # Next.js pages
 │   ├── styles           # Global styles
-│   ├── __tests__        # Global styles
+│   ├── __tests__        # Test files
 ├── public               # Static assets
 ├── jest.setup.ts        # Jest configuration
 ├── next.config.js       # Next.js configuration
